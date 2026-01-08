@@ -4,6 +4,8 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## Setup
 
+cd /EVENTO
+
 Make sure to install dependencies:
 
 ```bash
@@ -73,3 +75,13 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+# special notes:
+- @nuxt/ui
+- @pinia/nuxt # barly used
+- bcryptjs
+- date-fns
+- mongoose
+- nuxt-auth-utils
+- yup
